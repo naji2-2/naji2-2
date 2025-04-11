@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naji2-2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=naji2-2)]https://velog.io/@naji2-2/posts
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=naji2-2)https://velog.io/@naji2-2/posts
 
 
 <!--
