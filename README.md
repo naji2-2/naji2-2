@@ -1,7 +1,7 @@
-## Hi there 👋
-
+## 끊임없이 배우고 성장하며, 함께 나아가는 개발자 나지수입니다!🍀
+`#경험` `#노력` `#배움` `#소통` `#기록` 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naji2-2)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=naji2-2)
 
 
